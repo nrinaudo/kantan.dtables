@@ -1,0 +1,5 @@
+n % 3,n % 5,,Output
+T,T,,FizzBuzz
+T,F,,Fizz
+F,T,,Buzz
+F,F,,N
