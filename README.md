@@ -50,7 +50,7 @@ In order to generate scalacheck properties from an AST, one must provide:
 
 See the `samples` project for a concrete example of the FizzBuzz algorithm
 
-## Where to from here?
+## Where to go from here?
 
 This is an early draft, undocumented and untested. At this point, I intend to write as many specifications as possible to make sure the AST is reasonable and the API flexible enough for most use cases.
 
